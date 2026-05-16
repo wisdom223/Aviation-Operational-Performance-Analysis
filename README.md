@@ -135,9 +135,16 @@ Total delay minutes by cause across the full dataset:
 
 ## 📸 Dashboard Preview
 
-> *Power BI dashboard screenshots — add images here after exporting from Power BI Desktop.*
+### Page 1 — Airline Operational Performance
+![Airline Operational Performance](./dashboard_overview.png)
 
-To view the interactive dashboard, download the `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
+### Page 2 — Flight Delay Root Cause Analysis
+![Flight Delay Root Cause Analysis](./dashboard_root_cause.png)
+
+### Page 3 — Flight Delay Analysis
+![Flight Delay Analysis](./dashboard_delay_analysis.png)
+
+> 💡 To explore the fully interactive dashboard, download the `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 
 📥 **[Download Dashboard (.pbix)](./Capstone_Project_Group_28_Aviation.pbix)**
 
@@ -176,7 +183,7 @@ The full written report is available here:
 ## 👥 Contributors
 
 - **Shaibu Atekojo Wisdom** — [@wisdom223](https://github.com/wisdom223)
-- Group 28 Members (TechCrush BootCamp)
+- Techcrush Cohort5 Group 28 Members
 
 ---
 
